@@ -1,9 +1,0 @@
-{
-    "batch": {
-      "lotNumber": "_empty.lotNumber",
-      "expirationDate": "_empty.expiration"
-    },
-    "manufacturer": {
-      "reference": "_empty.medicationForm"
-    }
-}
